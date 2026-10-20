@@ -1,0 +1,4 @@
+venv/
+data/processed/*.parquet
+data/processed/*.csv
+src/__pycache__/
